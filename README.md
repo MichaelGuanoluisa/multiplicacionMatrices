@@ -1,4 +1,4 @@
-# multiplicacionMatrices
+# Multiplicación de Matrices
 Multiplicación de matrices en python
 
 Código realizado en python
